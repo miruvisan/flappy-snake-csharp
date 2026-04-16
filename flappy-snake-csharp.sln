@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.34031.81
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atestat_Visan_Miruna_1", "Atestat_Visan_Miruna_1\Atestat_Visan_Miruna_1.csproj", "{E79AAACB-4B66-43E2-A4F2-C5A8E4037F66}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "flappy-snake-csharp", "flappy-snake-csharp\flappy-snake-csharp.csproj", "{E79AAACB-4B66-43E2-A4F2-C5A8E4037F66}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
